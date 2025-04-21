@@ -14,3 +14,8 @@
   var a6 = false && "Gato"; // f && t retorna false
   var a7 = "Gato" && false; // t && f retorna false
 ```
+
+- [ ] The code shows examples of the operator || (logical OR)
+- [ ] The code shows examples of the ! operator (logical negation).
+- [ ] Create a new branch
+- [ ] Create a project
